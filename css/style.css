@@ -1,0 +1,92 @@
+* {
+    box-sizing: border-box;
+}
+.headerarea {
+    height: 150px;
+    background-color: red;
+    margin: auto;
+    padding: 30px;
+    text-align: center;
+}
+.headerp {
+    font-size: 30px;
+    color: white;
+}
+.wrapper {
+    overflow: hidden;
+    border: 20px solid lightgrey;
+}
+.contact {
+    height: 180px;
+    background-color: green;
+    margin: auto;
+    padding: 72px;
+    font-size: 30px;
+    color: white;
+    text-align: center;
+    width: 60%;
+    float: left;
+}
+.blog {
+    height: 180px;
+    background-color: blue;
+    margin: auto;
+    padding: 72px;
+    font-size: 30px;
+    color: white;
+    text-align: center;
+    width: 40%;
+    float: right;
+}
+.boxwrapper {
+    overflow: hidden;
+}
+.boxmodel {
+    min-height: 100px;
+    width: 25%;
+}
+.cyan {
+    background-color: cyan;
+    float: left;
+    margin: auto;
+    padding: 30px;
+    font-size: 30px;
+    color: darkred;
+    text-align: center;
+}
+.orange {
+    background-color: orange;
+    float: left;
+    margin: auto;
+    padding: 30px;
+    font-size: 30px;
+    color: darkred;
+    text-align: center;
+}
+.yellow {
+    background-color: yellow;
+    float: left;
+    margin: auto;
+    padding: 30px;
+    font-size: 30px;
+    color: darkred;
+    text-align: center;
+}
+.purple {
+    background-color: purple;
+    float: left;
+    margin: auto;
+    padding: 30px;
+    font-size: 30px;
+    color: darkred;
+    text-align: center;
+}
+footer {
+    height: 100px;
+    background-color: black;
+    margin: auto;
+    padding: 30px;
+    font-size: 30px;
+    color: white;
+    text-align: center;
+}
